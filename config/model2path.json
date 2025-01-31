@@ -1,0 +1,10 @@
+{
+    "llama2-7b-chat-4k": "unsloth/llama-2-7b-chat",
+    "llama-3.2-1B": "unsloth/Llama-3.1-3B",
+    "llama-3.2-1B-Instruct": "unsloth/Llama-3.2-1B-Instruct",
+    "llama-3.2-3B": "unsloth/Llama-3.2-3B",
+    "llama-3.2-3B-Instruct": "unsloth/Llama-3.2-3B-Instruct",
+    "Qwen2.5-0.5B-Instruct": "Qwen/Qwen2.5-0.5B-Instruct",
+    "Qwen2.5-3B-Instruct": "Qwen/Qwen2.5-3B-Instruct",
+    "Qwen2.5-7B-Instruct": "Qwen/Qwen2.5-7B-Instruct"
+}

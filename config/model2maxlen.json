@@ -1,0 +1,10 @@
+{
+    "llama2-7b-chat-4k": 3500,
+    "llama-3.2-1B":  131072,
+    "llama-3.2-1B-Instruct":  131072,
+    "llama-3.2-3B":  131072,
+    "llama-3.2-3B-Instruct":  131072,
+    "Qwen2.5-0.5B-Instruct": 131072,
+    "Qwen2.5-3B-Instruct": 131072,
+    "Qwen2.5-7B-Instruct": 131072
+}
